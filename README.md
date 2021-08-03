@@ -1,4 +1,12 @@
-# RateRecorder
-RateRecorder is a website that aims to provides updated FX Rates of Pakistan on daily basis.
+Rate-Recorder
+=============
 
-https://raterecorder.herokuapp.com/
+RateRecorder is a website that aims to provide updated FX Rates of Pakistan on daily basis.
+
+* website link: <https://raterecorder.herokuapp.com/>
+
+Technologies
+-------------
+
+- Scrapy
+- Django
