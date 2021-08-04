@@ -6,7 +6,7 @@ from pathlib import Path
 import requests
 import PyPDF2
 
-from items import RateRecorderItem, BankItem
+from rate_recorder.rate_scraper.items import RateRecorderItem, BankItem
 
 
 class NBPSpider(scrapy.Spider):
